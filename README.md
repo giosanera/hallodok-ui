@@ -5,5 +5,9 @@
 
 explore berdasarkan tinngkatan kesulitanmu 
 # masih 'Easy' ya guys, bisa kamu explore lagi sih mulai kerapian code dan ui nya. Makasih
+#
+#
+# ![image 1](https://github.com/giosanera/hallodok-ui/assets/109599069/a66fb6f0-0842-4057-bdc7-927a6ee6cba2)
+
 # demo projek saya https://hallodok-ui.vercel.app/
 
